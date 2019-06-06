@@ -1,4 +1,4 @@
-E:\Python\python.exe C:/Users/94160/Desktop/Python/慕课学习/MySQLConnectTest.py
+E:\Python\python.exe C:/Users/94160/Desktop/Python/mks/MySQLConnectTest.py
 创建EMPLOYEE数据表
 创建完成，开始写入表头
 写入数据表头完成
