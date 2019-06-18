@@ -1,5 +1,5 @@
 #encoding=utf8
-
+#需要安装模块
 import MySQLdb
 try:
         con =MySQLdb.connect(
