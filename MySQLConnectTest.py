@@ -1,4 +1,5 @@
 #encoding=utf8
+
 import MySQLdb
 try:
         con =MySQLdb.connect(
