@@ -1,5 +1,6 @@
 #encoding=utf8
 #需要安装模块
+# pip install mysqlclient
 import MySQLdb
 try:
         con =MySQLdb.connect(
